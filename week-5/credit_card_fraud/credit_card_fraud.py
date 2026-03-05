@@ -133,7 +133,7 @@ def predict_with_threshold(probs: np.ndarray, threshold: float) -> np.ndarray:
 def train_fraud_model(
     use_calibration: bool = True,
     calibration_method: str = "sigmoid",  # "sigmoid" is robust; "isotonic" needs more data
-    random_state: int = 45,
+    random_state: int = 42,
     beta_for_threshold: float = 2.0,
     min_precision: Optional[float] = None,
     min_recall: Optional[float] = None,

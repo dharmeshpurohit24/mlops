@@ -1,0 +1,12 @@
+Theory learned:-
+
+- merge conflict and resolving
+
+Git commands learned:-
+
+- git log : For showing commit history.
+- git merge : For combining two branch. Creates a new commit.
+- git fetch : For fetching the changes from remote repo to local repo. Does not modify the working branch.
+- git squash : For merging multiple commits to single commit.
+- git tag : For naming a commit. Can save with metadata and without metadata.
+- git stash -u : saves the uncommited changes temporarily (in both staging + working area)

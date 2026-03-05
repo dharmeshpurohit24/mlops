@@ -1,0 +1,7 @@
+Both changes were kept using manual resolving.
+
+Written from Task-2 branch and changed the line here.
+=======
+Written from conflict-branch in file week-1/day-2/conflict_file.txt.
+
+Added text from conflict-branch will change in day-2 branch.

@@ -1,0 +1,15 @@
+Git command learned:-
+
+- git checkout : other work that can be performed with it. AS
+     > git checkout <br> : to switch branch.
+     > git checkout -b <br> : to create new branch and switch to that.
+     > git checkout <commit_hash> : to go to that particular commit.HEAD is detached.
+     > git checkout <tag> : to go to particular tag created to a hash.
+     > git checkout --ours <conflict file> : during conflict when we want to accept current branch.
+     > git checkout --theirs <conflict file> : during conflict when we want to accept branch we want to merge file.
+
+- git reset <commit_hash> : moves head to particular commit and commit after that becomes dangling (can be retaken by checking in git reflog then git reset --hard <id>).
+- git reflog : stores the history of head pointer.Locally only
+- git cherry-pick <commit_hash> : Takes the commit (commit hash specified) and apply on current head as new commit.
+
+

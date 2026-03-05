@@ -1,0 +1,3 @@
+file added after commit and currently head at this commit.
+
+doing git reset --soft

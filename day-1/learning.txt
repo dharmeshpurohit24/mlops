@@ -1,0 +1,21 @@
+Challenges faced:-
+
+- Learning the .git folder structure and its components.
+
+Theory Learned:-
+
+- 7 Pillars of devops
+- 3 c's of devops
+- About Git (into)
+- Git working of commands
+
+Git Commands learned:-
+
+- git init : For initializing a repo in workspace locally
+- git add : For adding the files/folders to staging area for including in next commit
+- git commit : For commiting the files present in staging area locally
+- git clone : to clone the repo from a origin (can be from github,bitbucket,gitlab) to local system.
+- git remote add origin : For adding the origin to push the commits present locally to cloud.
+- git push : For pushing the commit present locally to cloud (origin set)
+- git checkout : For creating a new branch and also changing the current branch (legacy way but now *git switch* => is also included in new versions which does the branch creation and switching).
+--git restore --staged : To restore the files/folders present in staging area(unstaging for removing the things to be included in commit).

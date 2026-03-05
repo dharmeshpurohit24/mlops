@@ -1,0 +1,7 @@
+this is file form day2 branch
+
+
+updated text in day2 branch file
+
+text from conflict branch
+KEPT BOTH THE CHANGES.

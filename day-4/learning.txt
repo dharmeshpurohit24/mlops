@@ -1,0 +1,22 @@
+Theory Learned:-
+
+- linux Architecture
+- linux intoduction
+- tried using ec2 for linux with ssh
+
+
+Linux commands learned :-
+
+- ls : for listing the files.
+- pwd : for listing present working directory.
+- mkdir : creating a new directory.
+- cd : change current working directory.
+- rmdir : remove the directory.
+- cp : copy file or directory (can be copied from one path to another).
+- mv : move or rename the file and directories.
+- man : for getting details of commands.
+- echo : for printing message and writing into files.
+- whoami : to current user username.
+- wc : to show line count,word count,byte count.
+
+
